@@ -1,0 +1,11 @@
+.cube td{
+    background-color: blue;
+    padding: 45px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.28);
+
+}
+
+
+table {
+    background-color: black;
+}
